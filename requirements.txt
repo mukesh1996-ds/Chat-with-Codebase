@@ -1,0 +1,10 @@
+langchain==0.0.249
+langchain-community
+openai==0.28
+tiktoken
+chromadb==0.4.24
+flask
+python-dotenv
+GitPython
+
+-e .
