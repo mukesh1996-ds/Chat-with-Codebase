@@ -22,7 +22,7 @@ To develop an AI-powered system that allows developers to interactively query an
 
 ### **Flow Chart**
 
-![Flow Chart]https://github.com/mukesh1996-ds/Chat-with-Codebase/blob/main/Knowledge%20Retrieval%20Flow%20Chart%20-%20visual%20selection.png
+![Flow Chart](https://github.com/mukesh1996-ds/Chat-with-Codebase/blob/main/Knowledge%20Retrieval%20Flow%20Chart%20-%20visual%20selection.png)
 
 ### **Tech Stack**
 
