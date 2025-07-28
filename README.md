@@ -20,6 +20,10 @@ To develop an AI-powered system that allows developers to interactively query an
 * 📊 **Summarization:** Generate human-readable summaries of functions, classes, and modules.
 * 🔐 **Secure Local Execution:** Operates entirely on local code, with optional API access to OpenAI for responses.
 
+### **Flow Chart**
+
+![Flow Chart]https://github.com/mukesh1996-ds/Chat-with-Codebase/blob/main/Knowledge%20Retrieval%20Flow%20Chart%20-%20visual%20selection.png
+
 ### **Tech Stack**
 
 * **Language:** Python 3.10
